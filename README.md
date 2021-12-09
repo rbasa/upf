@@ -105,10 +105,3 @@ TBD
 
 These contracts are free, open source and censorship resistant. Support us via TBD.
 
-## License
-
-This software is under an [MIT License](LICENSE.md). This is a free software built by TBD.
-
-<p align="center">
-<img src="docs/democracy-earth.png" width="400" title="{{Arvol Foundation}}">
-</p>
